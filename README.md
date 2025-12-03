@@ -12,3 +12,12 @@ There is a main method printing out a lot of information such as
 
 to compare them to see where each algorithm shines
 
+also to run the code download it to your device and compile it
+(javac msaAlignments.java)
+
+then run the command -> 
+java msaAlignments.java <input.fasta>
+
+or if you want a custom output file -> 
+java msaAlignments <test.fasta> <output.txt>
+
